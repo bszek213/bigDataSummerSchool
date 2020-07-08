@@ -1,1 +1,2 @@
 Git works for version control.
+it saves differences of every version.
